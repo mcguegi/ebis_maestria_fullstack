@@ -2,7 +2,7 @@ Juan - 1
 Cesar - 2
 Karen
 Guillermo
-Laura
+Laura - 10
 Sergio
 Lucia
 Camila
